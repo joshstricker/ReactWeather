@@ -27,7 +27,7 @@ var WeatherForm = React.createClass({
             </div>
         
         )
-    }
+    },
     
 });
 
